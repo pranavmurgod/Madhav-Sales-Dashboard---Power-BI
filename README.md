@@ -1,5 +1,6 @@
 # Madhav-Sales-Dashboard-Power-BI
-![image](https://github.com/user-attachments/assets/1efc1361-e7e0-417a-a79b-de5140d0935d)
+![Screenshot (181)](https://github.com/user-attachments/assets/cd2256ac-b2df-4d6d-bebe-642fffaa341f)
+
 
 ## 🔍 Project Objective
 The primary goal of this project was to assist the owner of Madhav Store in creating a comprehensive dashboard to track and analyze their online sales across India. The dashboard is designed to provide actionable insights and support informed decision-making.
